@@ -1,19 +1,44 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+## 🖼️ Oldagram
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+**Oldagram** is a playful frontend app that brings historical artists into the modern age of social media. Imagine Vincent van Gogh posting mushroom musings or Camille Claudel sharing sculptural vibes—this app blends art history with Instagram-style storytelling.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### 🚀 Live Demo
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Check out the app in action: Oldagram on Netlify**[Oldagram app](https://your-netlify-url.netlify.app)**
 
-Happy Coding!
+### 📸 Features
+
+- Dynamic artist cards with:
+  - Avatar, location, and username
+  - Post image and caption
+  - Like counter and comment section
+- Fully responsive layout
+- Clean, modular HTML/CSS structure
+- Easy-to-extend JavaScript for adding new artists
+
+### 🎨 Artists Featured
+
+- Vincent van Gogh (`vincey1853`)
+- Gustave Courbet (`gus1819`)
+- Joseph Ducreux (`jd1735`)
+- Élisabeth Vigée Le Brun (`vigee1755`)
+- Henri Rousseau (`henri1844`)
+- Camille Claudel (`camille1864`)
+
+Each artist has a unique post, avatar, and comment—bringing personality and humor to their historical legacy.
+
+### 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+### ✨ Inspiration
+
+Inspired by the idea of blending classical art with modern digital culture. Perfect for learning DOM manipulation, layout design, and creative data structuring.
+
+### 📬 Contributing
+
+Feel free to fork the repo and add your favorite historical figures! Pull requests are welcome.
+
+---
