@@ -4,7 +4,7 @@
 
 ### 🚀 Live Demo
 
-Check out the app in action: Oldagram on Netlify**[Oldagram app](https://your-netlify-url.netlify.app)**
+Check out the app in action: Oldagram on Netlify**[Oldagram app](https://oldagram-scrim-app.netlify.app/)**
 
 ### 📸 Features
 
